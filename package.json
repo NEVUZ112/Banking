@@ -1,0 +1,41 @@
+{
+  "name": "amaliyot",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "@syncfusion/ej2-vue-navigations": "^26.1.38",
+    "anime": "^0.1.2",
+    "animejs": "^3.2.2",
+    "axios": "^1.7.2",
+    "chart.js": "^4.4.3",
+    "firebase": "^10.12.2",
+    "gsap": "^3.12.5",
+    "jquery": "^3.7.1",
+    "js": "^0.1.0",
+    "materialize-css": "^1.0.0",
+    "node": "^18.20.3",
+    "register-service-worker": "^1.7.2",
+    "swiper": "^11.1.4",
+    "vee-validate": "^4.12.8",
+    "vue": "^3.4.21",
+    "vue-carousel": "^0.18.0",
+    "vue-chartjs": "^5.3.1",
+    "vue-i18n": "^9.13.1",
+    "vue-router": "^4.3.2",
+    "vue2-google-maps": "^0.10.7",
+    "vue3-google-map": "^0.20.0",
+    "vuex": "^4.1.0",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.11"
+  }
+}

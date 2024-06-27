@@ -1,0 +1,107 @@
+{
+    "help": {
+      "title": "Yordam",
+      "questions": [
+        { "title": "Savol1", "answer": "Javob1" },
+        { "title": "Savol2", "answer": "Javob2" },
+        { "title": "Savol3", "answer": "Javob3" },
+        { "title": "Savol4", "answer": "Javob4" }
+      ]
+    },
+    "translate": {
+      "nav": {
+        "title": "Sarlavha",
+        "lang": {
+          "arab":"Arabcha",
+          "eng":"Inglizcha",
+          "uzb":"O`zbekcha"
+        },
+        "home": "Bosh sahifa",
+        "help": "Yordam",
+        "statistics": "Statistika",
+        "sidebar": "Sidebar",     
+        "logout": "Chiqish",
+        "addInfo": "Ma'lumot Qo`shish"
+      },
+          
+      "pageTitle": {
+        "analiz": "Analiz"
+      },
+      "status":{
+        "done": "Bajarildi",
+        "cancelled": "Qaytarildi",
+        "active": "Tasdiqlanmoqda",
+        "sending": "Yuborilmoqda",
+        "save": "Saqlash"
+      },
+      "form": {
+        "fio": "FIO",
+        "phone": "TELEFON",
+        "summa": "Summa",
+        "status": "Status",
+        "done": "Bajarildi",
+        "cancelled": "Qaytarildi",
+        "active": "Tasdiqlanmoqda",
+        "sending": "Yuborilmoqda",
+        "save": "Saqlash",
+        "submitting": "Saytga kirilmoqda..."
+      },
+      "filter": {
+        "placeholder": "FIO ni kiriting...",
+        "select": "Tanlang...",
+        "done": "Bajarildi",
+        "cancelled": "Qaytarildi",
+        "active": "Tasdiqlanmoqda",
+        "sending": "Yuborilmoqda",
+        "reset": "Tozalash"
+      },
+      "requests": {
+        "title": "Buyurtmalar",
+        "number": "Raqam",
+        "fio": "To'liq ismi",
+        "phone": "Telefon",
+        "sum": "Umumiy/summa",
+        "status": "Holat",
+        "actions": "Harakatlar",
+        "open": "Ochish",
+        "noData": "Ma'lumotlar mavjud emas",
+        "prev": "Oldingi",
+        "next": "Keyingi"
+      },
+      "chart":{
+        "fio":"FIO",
+        "summa": "Summa",
+        "color":"Rang"
+      },
+      "sidebar": {
+        "greeting": "Assalomu alaykum!!",
+        "close": "Yopish"
+      }
+      
+      
+  },
+    "pageTitle": {
+      "application": "Arizachi",
+      "analiz":"Statics",
+      "User":"Foydalanuvchi"
+    },
+    "labels": {
+      "fio": "F.I.SH",
+      "phone": "Telefon",
+      "amount": "Summa",
+      "status": "Holati",
+      "update": "Yangilash",
+      "delete": "O'chirish"
+    },
+    "status": {
+      "done": "Bajarildi",
+      "cancelled": "Bekor qilindi",
+      "active": "Tasdiqlanmoqda",
+      "sending": "Yuborilmoqda"
+    },
+    "backToHomePage": "Bosh sahifaga qaytish",
+    "bank": "Bank"
+
+
+}
+  

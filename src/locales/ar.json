@@ -1,0 +1,104 @@
+{
+    "help": {
+        "title": "مساعدة",
+        "questions": [
+          { "title": "سؤال1", "answer": "إجابة1" },
+          { "title": "سؤال2", "answer": "إجابة2" },
+          { "title": "سؤال3", "answer": "إجابة3" },
+          { "title": "سؤال4", "answer": "إجابة4" }
+        ]
+    },
+    "translate": {
+        "nav": {
+            "lang": {
+                "eng":"إنجليزي",
+                "arab":"عربي",
+                "uzb":"الأوزبكية"
+            },
+            "title": "مشروع",
+            "home": "الصفحة الرئيسية",
+            "help": "مساعدة",
+            "statistics": "إحصائيات",
+            "sidebar": "الشريط الجانبي",
+            "logout": "تسجيل خروج",
+            "addInfo": "اضف معلومات"
+        },
+        "pageTitle": {
+            "analiz": "الإحصائيات"
+        },
+        "status":{
+            "done": "تم",
+            "cancelled": "ملغي",
+            "active": "قيد المراجعة",
+            "sending": "جاري الإرسال",
+            "save": "حفظ"
+          },
+        "form": {
+            "fio": "الاسم الكامل",
+            "phone": "الهاتف",
+            "summa": "المبلغ",
+            "status": "الحالة",
+            "done": "تم",
+            "cancelled": "ملغي",
+            "active": "قيد المراجعة",
+            "sending": "جاري الإرسال",
+            "save": "حفظ",
+            "submitting": "جاري الإرسال..."
+        },
+        "filter": {
+            "placeholder": "أدخل الاسم الكامل...",
+            "select": "اختر...",
+            "done": "منجز",
+            "cancelled": "ملغاة",
+            "active": "نشط",
+            "sending": "جارٍ الإرسال",
+            "reset": "إعادة تعيين"
+          },
+          "requests": {
+            "title": "الطلبات",
+            "number": "رقم",
+            "fio": "الاسم الكامل",
+            "phone": "الهاتف",
+            "sum": "المجموع",
+            "status": "الحالة",
+            "actions": "الإجراءات",
+            "open": "فتح",
+            "noData": "لا توجد بيانات",
+            "prev": "السابق",
+            "next": "التالي"
+          },
+          "chart": {
+            "fio": "الاسم",
+            "summa": "المجموع"
+          },
+          "sidebar": {
+            "greeting": "السلام عليكم!!",
+            "close": "إغلاق"
+          }
+          
+          
+    },
+    "pageTitle": {
+      "application": "طلب",
+      "analiz":"Statics",
+      "User":"Ummat"
+    },
+    "labels": {
+      "fio": "الاسم الكامل",
+      "phone": "هاتف",
+      "amount": "المبلغ",
+      "status": "الحالة",
+      "update": "تحديث",
+      "delete": "حذف"
+    },
+    "status": {
+      "done": "تم",
+      "cancelled": "ألغيت",
+      "active": "قيد المعالجة",
+      "sending": "جار الإرسال"
+    },
+    "backToHomePage": "العودة إلى الصفحة الرئيسية",
+    "bank": "البنك"
+
+  }
+  

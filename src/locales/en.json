@@ -1,0 +1,104 @@
+{
+    "help": {
+        "title": "Help",
+        "questions": [
+          { "title": "Question1", "answer": "Answer1" },
+          { "title": "Question2", "answer": "Answer2" },
+          { "title": "Question3", "answer": "Answer3" },
+          { "title": "Question4", "answer": "Answer4" }
+        ]
+    },
+    "translate": {
+        "nav": {
+            "lang": {
+                "arab":"Arabic",
+                "eng":"English",
+                "uzb":"Uzbek"
+            },
+            "title": "Project",
+            "home": "Home",
+            "help": "Help",
+            "statistics": "Statistics",
+            "sidebar": "SideBar",
+            "logout": "Logout",
+            "addInfo": "Adding"
+        },
+        "pageTitle": {
+            "analiz": "Statics"
+        },
+        "status":{
+            "done": "Done",
+            "cancelled": "Cancelled",
+            "active": "Pending",
+            "sending": "Sending",
+            "save": "Save"
+        },
+        "form": {
+            "fio": "Full Name",
+            "phone": "Phone",
+            "summa": "Amount",
+            "status": "Status",
+            "done": "Done",
+            "cancelled": "Cancelled",
+            "active": "Pending",
+            "sending": "Sending",
+            "save": "Save",
+            "submitting": "Submitting..."
+        },
+        "filter": {
+            "placeholder": "Enter FIO...",
+            "select": "Select...",
+            "done": "Done",
+            "cancelled": "Cancelled",
+            "active": "Active",
+            "sending": "Sending",
+            "reset": "Reset"
+        },
+        "requests": {
+            "title": "Requests",
+            "number": "№",
+            "fio": "FIO",
+            "phone": "Phone",
+            "sum": "Sum",
+            "status": "Status",
+            "actions": "Actions",
+            "open": "Open",
+            "noData": "No data available",
+            "prev": "Prev",
+            "next": "Next"
+          },
+          
+          "chart":{
+            "fio":"Full Name",
+            "summa": "money"
+          },
+          "sidebar": {
+            "greeting": "HELLO!!",
+            "close": "Close"
+          }
+                  
+    },
+    "pageTitle": {
+        "application": "Application",
+        "analiz":"Statics",
+        "User":"User"
+    },
+    "labels": {
+        "fio": "Full Name",
+        "phone": "Phone",
+        "amount": "Amount",
+        "status": "Status",
+        "update": "Update",
+        "delete": "Delete"
+    },
+    "status": {
+        "done": "Done",
+        "cancelled": "Cancelled",
+        "active": "Pending",
+        "sending": "Sending"
+    },
+
+    "backToHomePage": "Back to Home Page",
+    "bank": "Bank"
+      
+}
